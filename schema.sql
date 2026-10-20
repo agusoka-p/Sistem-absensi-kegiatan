@@ -1,7 +1,6 @@
 -- =====================================================================
 -- Skema Sistem Absensi (sesuai ERD terbaru, 15 tabel)
 -- DBMS: PostgreSQL 15+ (butuh SET NULL (kolom) dan partial unique index)
--- Waktu disimpan sebagai timestamptz (UTC), zona operasional Asia/Makassar
 -- =====================================================================
 
 BEGIN;
